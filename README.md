@@ -1,0 +1,2 @@
+# Image-Completion-using-GAN
+Completion and reconstruction of damaged areas of digital images has been an interesting trend in computer vision and image processing. Recently, digitalization of cultural and historical images has become an important step which has been extensively used in artwork restoration. These historical images can be degraded or damaged due to removing of unwanted objects, error compression or transmission, water damage and some may as well have stamps and logos.
