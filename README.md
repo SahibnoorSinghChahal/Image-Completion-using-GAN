@@ -18,3 +18,6 @@ In order to perform image completion, we generate two CNN models, a generative a
 ![alt text](https://github.com/SahibnoorSinghChahal/Image-Completion-using-GAN/blob/master/img/Batch_999.png)
 
 From the above images, it can be seen that the CNNs generated could complete the input image as close to its original form.
+
+## Conclusion
+From the obtained results, it can be concluded that Convolutional Neural Networks (GAN) can be used in image completion techniques.
